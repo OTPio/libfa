@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary = "FontAwesome library for OTP.io"
 
   s.homepage = "https://github.com/otpio/libfa.git"
-  s.license = { :type => "GPL", :file => "LICENSE" }
+  s.license = { :type => "MIT", :file => "LICENSE" }
   s.author = { "Mason Phillips" => "math.matrix@icloud.com" }
 
   s.source = { :git => "https://github.com/otpio/libfa.git", :tag => s.version.to_s }
