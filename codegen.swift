@@ -115,6 +115,26 @@ sortedKeys.forEach { key in
 }
 
 fontAwesomeEnum += """
+]
+/// An array of FontAwesome brands
+// swiftlint:disable identifier_name
+public let FontAwesomeBrands: [String: String] = [
+"""
+
+sortedKeys.forEach { key in
+    guard let value = icons[key] else { return }
+    if value.styles.count == 1 { // most likely brand-only
+        fontAwesomeEnum += """
+        \"fa-\(key)\": \"\\u{\(value.unicode)}\"
+        """
+        
+        if key != sortedKeys.last {
+            fontAwesomeEnum += ",\n"
+        }
+    }
+}
+
+fontAwesomeEnum += """
 
 ]
 
