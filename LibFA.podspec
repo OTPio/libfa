@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "LibFA"
-  s.version = "1.0.1"
+  s.version = "1.1.0"
   s.summary = "FontAwesome library for OTP.io"
 
   s.homepage = "https://github.com/otpio/libfa.git"
