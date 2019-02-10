@@ -1,0 +1,6 @@
+[submodule "FontAwesomePro"]
+	path = FontAwesomePro
+	url = git@github.com:FortAwesome/Font-Awesome-Pro
+[submodule "Sources/FontAwesome"]
+	path = Sources/FontAwesome
+	url = git@github.com:fortawesome/font-awesome-pro
