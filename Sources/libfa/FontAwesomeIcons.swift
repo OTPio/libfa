@@ -150,6 +150,7 @@ case babyCarriage = "\u{f77d}"
 case backpack = "\u{f5d4}"
 case backspace = "\u{f55a}"
 case backward = "\u{f04a}"
+case bacon = "\u{f7e5}"
 case badge = "\u{f335}"
 case badgeCheck = "\u{f336}"
 case badgeDollar = "\u{f645}"
@@ -222,11 +223,14 @@ case book = "\u{f02d}"
 case bookAlt = "\u{f5d9}"
 case bookDead = "\u{f6b7}"
 case bookHeart = "\u{f499}"
+case bookMedical = "\u{f7e6}"
 case bookOpen = "\u{f518}"
 case bookReader = "\u{f5da}"
 case bookSpells = "\u{f6b8}"
+case bookUser = "\u{f7e7}"
 case bookmark = "\u{f02e}"
 case books = "\u{f5db}"
+case booksMedical = "\u{f7e8}"
 case boot = "\u{f782}"
 case boothCurtain = "\u{f734}"
 case bowArrow = "\u{f6b9}"
@@ -245,8 +249,12 @@ case boxUsd = "\u{f4a0}"
 case boxes = "\u{f468}"
 case boxesAlt = "\u{f4a1}"
 case boxingGlove = "\u{f438}"
+case brackets = "\u{f7e9}"
+case bracketsCurly = "\u{f7ea}"
 case braille = "\u{f2a1}"
 case brain = "\u{f5dc}"
+case breadLoaf = "\u{f7eb}"
+case breadSlice = "\u{f7ec}"
 case briefcase = "\u{f0b1}"
 case briefcaseMedical = "\u{f469}"
 case broadcastTower = "\u{f519}"
@@ -262,6 +270,7 @@ case bullseyeArrow = "\u{f648}"
 case bullseyePointer = "\u{f649}"
 case burn = "\u{f46a}"
 case buromobelexperte = "\u{f37f}"
+case burrito = "\u{f7ed}"
 case bus = "\u{f207}"
 case busAlt = "\u{f55e}"
 case busSchool = "\u{f5dd}"
@@ -345,10 +354,14 @@ case chartLineDown = "\u{f64d}"
 case chartNetwork = "\u{f78a}"
 case chartPie = "\u{f200}"
 case chartPieAlt = "\u{f64e}"
+case chartScatter = "\u{f7ee}"
 case check = "\u{f00c}"
 case checkCircle = "\u{f058}"
 case checkDouble = "\u{f560}"
 case checkSquare = "\u{f14a}"
+case cheese = "\u{f7ef}"
+case cheeseSwiss = "\u{f7f0}"
+case cheeseburger = "\u{f7f1}"
 case chess = "\u{f439}"
 case chessBishop = "\u{f43a}"
 case chessBishopAlt = "\u{f43b}"
@@ -389,11 +402,13 @@ case circle = "\u{f111}"
 case circleNotch = "\u{f1ce}"
 case city = "\u{f64f}"
 case clawMarks = "\u{f6c2}"
+case clinicMedical = "\u{f7f2}"
 case clipboard = "\u{f328}"
 case clipboardCheck = "\u{f46c}"
 case clipboardList = "\u{f46d}"
 case clipboardListCheck = "\u{f737}"
 case clipboardPrescription = "\u{f5e8}"
+case clipboardUser = "\u{f7f3}"
 case clock = "\u{f017}"
 case clone = "\u{f24d}"
 case closedCaptioning = "\u{f20a}"
@@ -445,6 +460,7 @@ case commentAltDots = "\u{f4a3}"
 case commentAltEdit = "\u{f4a4}"
 case commentAltExclamation = "\u{f4a5}"
 case commentAltLines = "\u{f4a6}"
+case commentAltMedical = "\u{f7f4}"
 case commentAltMinus = "\u{f4a7}"
 case commentAltPlus = "\u{f4a8}"
 case commentAltSlash = "\u{f4a9}"
@@ -456,6 +472,7 @@ case commentDots = "\u{f4ad}"
 case commentEdit = "\u{f4ae}"
 case commentExclamation = "\u{f4af}"
 case commentLines = "\u{f4b0}"
+case commentMedical = "\u{f7f5}"
 case commentMinus = "\u{f4b1}"
 case commentPlus = "\u{f4b2}"
 case commentSlash = "\u{f4b3}"
@@ -506,12 +523,15 @@ case creditCardBlank = "\u{f389}"
 case creditCardFront = "\u{f38a}"
 case cricket = "\u{f449}"
 case criticalRole = "\u{f6c9}"
+case croissant = "\u{f7f6}"
 case crop = "\u{f125}"
 case cropAlt = "\u{f565}"
 case cross = "\u{f654}"
 case crosshairs = "\u{f05b}"
 case crow = "\u{f520}"
 case crown = "\u{f521}"
+case crutch = "\u{f7f7}"
+case crutches = "\u{f7f8}"
 case css3 = "\u{f13c}"
 case css3Alt = "\u{f38b}"
 case cube = "\u{f1b2}"
@@ -525,6 +545,7 @@ case dagger = "\u{f6cb}"
 case dashcube = "\u{f210}"
 case database = "\u{f1c0}"
 case deaf = "\u{f2a4}"
+case debug = "\u{f7f9}"
 case deer = "\u{f78e}"
 case deerRudolph = "\u{f78f}"
 case delicious = "\u{f1a5}"
@@ -561,6 +582,7 @@ case diploma = "\u{f5ea}"
 case directions = "\u{f5eb}"
 case discord = "\u{f392}"
 case discourse = "\u{f393}"
+case disease = "\u{f7fa}"
 case divide = "\u{f529}"
 case dizzy = "\u{f567}"
 case dna = "\u{f471}"
@@ -610,6 +632,8 @@ case eclipse = "\u{f749}"
 case eclipseAlt = "\u{f74a}"
 case edge = "\u{f282}"
 case edit = "\u{f044}"
+case egg = "\u{f7fb}"
+case eggFried = "\u{f7fc}"
 case eject = "\u{f052}"
 case elementor = "\u{f430}"
 case elephant = "\u{f6da}"
@@ -705,6 +729,7 @@ case fileUpload = "\u{f574}"
 case fileUser = "\u{f65c}"
 case fileVideo = "\u{f1c8}"
 case fileWord = "\u{f1c2}"
+case filesMedical = "\u{f7fd}"
 case fill = "\u{f575}"
 case fillDrip = "\u{f576}"
 case film = "\u{f008}"
@@ -722,6 +747,7 @@ case firstOrder = "\u{f2b0}"
 case firstOrderAlt = "\u{f50a}"
 case firstdraft = "\u{f3a1}"
 case fish = "\u{f578}"
+case fishCooked = "\u{f7fe}"
 case fistRaised = "\u{f6de}"
 case flag = "\u{f024}"
 case flagAlt = "\u{f74c}"
@@ -733,6 +759,9 @@ case flaskPoison = "\u{f6e0}"
 case flaskPotion = "\u{f6e1}"
 case flickr = "\u{f16e}"
 case flipboard = "\u{f44d}"
+case flower = "\u{f7ff}"
+case flowerDaffodil = "\u{f800}"
+case flowerTulip = "\u{f801}"
 case flushed = "\u{f579}"
 case fly = "\u{f417}"
 case fog = "\u{f74e}"
@@ -741,6 +770,7 @@ case folderMinus = "\u{f65d}"
 case folderOpen = "\u{f07c}"
 case folderPlus = "\u{f65e}"
 case folderTimes = "\u{f65f}"
+case folderTree = "\u{f802}"
 case folders = "\u{f660}"
 case font = "\u{f031}"
 case fontAwesome = "\u{f2b4}"
@@ -760,6 +790,7 @@ case foursquare = "\u{f180}"
 case fragile = "\u{f4bb}"
 case freeCodeCamp = "\u{f2c5}"
 case freebsd = "\u{f3a4}"
+case frenchFries = "\u{f803}"
 case frog = "\u{f52e}"
 case frostyHead = "\u{f79b}"
 case frown = "\u{f119}"
@@ -792,6 +823,7 @@ case githubSquare = "\u{f092}"
 case gitkraken = "\u{f3a6}"
 case gitlab = "\u{f296}"
 case gitter = "\u{f426}"
+case glass = "\u{f804}"
 case glassChampagne = "\u{f79e}"
 case glassCheers = "\u{f79f}"
 case glassMartini = "\u{f000}"
@@ -856,6 +888,7 @@ case h3 = "\u{f315}"
 case hackerNews = "\u{f1d4}"
 case hackerNewsSquare = "\u{f3af}"
 case hackerrank = "\u{f5f7}"
+case hamburger = "\u{f805}"
 case hammer = "\u{f6e3}"
 case hammerWar = "\u{f6e4}"
 case hamsa = "\u{f665}"
@@ -868,6 +901,7 @@ case handHoldingSeedling = "\u{f4bf}"
 case handHoldingUsd = "\u{f4c0}"
 case handHoldingWater = "\u{f4c1}"
 case handLizard = "\u{f258}"
+case handMiddleFinger = "\u{f806}"
 case handPaper = "\u{f256}"
 case handPeace = "\u{f25b}"
 case handPointDown = "\u{f0a7}"
@@ -886,6 +920,7 @@ case handsUsd = "\u{f4c5}"
 case handshake = "\u{f2b5}"
 case handshakeAlt = "\u{f4c6}"
 case hanukiah = "\u{f6e6}"
+case hardHat = "\u{f807}"
 case hashtag = "\u{f292}"
 case hatSanta = "\u{f7a7}"
 case hatWinter = "\u{f7a8}"
@@ -894,6 +929,8 @@ case hatWizard = "\u{f6e8}"
 case haykal = "\u{f666}"
 case hdd = "\u{f0a0}"
 case headSide = "\u{f6e9}"
+case headSideBrain = "\u{f808}"
+case headSideMedical = "\u{f809}"
 case headVr = "\u{f6ea}"
 case heading = "\u{f1dc}"
 case headphones = "\u{f025}"
@@ -919,7 +956,10 @@ case hockeyPuck = "\u{f453}"
 case hockeySticks = "\u{f454}"
 case hollyBerry = "\u{f7aa}"
 case home = "\u{f015}"
+case homeAlt = "\u{f80a}"
 case homeHeart = "\u{f4c9}"
+case homeLg = "\u{f80b}"
+case homeLgAlt = "\u{f80c}"
 case hoodCloak = "\u{f6ef}"
 case hooli = "\u{f427}"
 case hornbill = "\u{f592}"
@@ -928,7 +968,10 @@ case horseHead = "\u{f7ab}"
 case hospital = "\u{f0f8}"
 case hospitalAlt = "\u{f47d}"
 case hospitalSymbol = "\u{f47e}"
+case hospitalUser = "\u{f80d}"
+case hospitals = "\u{f80e}"
 case hotTub = "\u{f593}"
+case hotdog = "\u{f80f}"
 case hotel = "\u{f594}"
 case hotjar = "\u{f3b1}"
 case hourglass = "\u{f254}"
@@ -944,6 +987,7 @@ case hubspot = "\u{f3b2}"
 case humidity = "\u{f750}"
 case hurricane = "\u{f751}"
 case iCursor = "\u{f246}"
+case iceCream = "\u{f810}"
 case iceSkate = "\u{f7ac}"
 case icicles = "\u{f7ad}"
 case idBadge = "\u{f2c1}"
@@ -972,6 +1016,7 @@ case intersection = "\u{f668}"
 case inventory = "\u{f480}"
 case invision = "\u{f7b0}"
 case ioxhost = "\u{f208}"
+case islandTropical = "\u{f811}"
 case italic = "\u{f033}"
 case itunes = "\u{f3b4}"
 case itunesNote = "\u{f3b5}"
@@ -1014,6 +1059,7 @@ case landmarkAlt = "\u{f752}"
 case language = "\u{f1ab}"
 case laptop = "\u{f109}"
 case laptopCode = "\u{f5fc}"
+case laptopMedical = "\u{f812}"
 case laravel = "\u{f3bd}"
 case lastfm = "\u{f202}"
 case lastfmSquare = "\u{f203}"
@@ -1083,6 +1129,7 @@ case magento = "\u{f3c4}"
 case magic = "\u{f0d0}"
 case magnet = "\u{f076}"
 case mailBulk = "\u{f674}"
+case mailbox = "\u{f813}"
 case mailchimp = "\u{f59e}"
 case male = "\u{f183}"
 case mandalorian = "\u{f50f}"
@@ -1114,6 +1161,7 @@ case marsStrokeV = "\u{f22a}"
 case mask = "\u{f6fa}"
 case mastodon = "\u{f4f6}"
 case maxcdn = "\u{f136}"
+case meat = "\u{f814}"
 case medal = "\u{f5a2}"
 case medapps = "\u{f3c6}"
 case medium = "\u{f23a}"
@@ -1211,6 +1259,7 @@ case otter = "\u{f700}"
 case outdent = "\u{f03b}"
 case page4 = "\u{f3d7}"
 case pagelines = "\u{f18c}"
+case pager = "\u{f815}"
 case paintBrush = "\u{f1fc}"
 case paintBrushAlt = "\u{f5a9}"
 case paintRoller = "\u{f5aa}"
@@ -1250,6 +1299,7 @@ case pencilRuler = "\u{f5ae}"
 case pennant = "\u{f456}"
 case pennyArcade = "\u{f704}"
 case peopleCarry = "\u{f4ce}"
+case pepperHot = "\u{f816}"
 case percent = "\u{f295}"
 case percentage = "\u{f541}"
 case periscope = "\u{f3da}"
@@ -1280,6 +1330,8 @@ case pills = "\u{f484}"
 case pinterest = "\u{f0d2}"
 case pinterestP = "\u{f231}"
 case pinterestSquare = "\u{f0d3}"
+case pizza = "\u{f817}"
+case pizzaSlice = "\u{f818}"
 case placeOfWorship = "\u{f67f}"
 case plane = "\u{f072}"
 case planeAlt = "\u{f3de}"
@@ -1303,6 +1355,7 @@ case pollPeople = "\u{f759}"
 case poo = "\u{f2fe}"
 case pooStorm = "\u{f75a}"
 case poop = "\u{f619}"
+case popcorn = "\u{f819}"
 case portrait = "\u{f3e0}"
 case poundSign = "\u{f154}"
 case powerOff = "\u{f011}"
@@ -1313,6 +1366,7 @@ case prescriptionBottle = "\u{f485}"
 case prescriptionBottleAlt = "\u{f486}"
 case presentation = "\u{f685}"
 case print = "\u{f02f}"
+case printSearch = "\u{f81a}"
 case printSlash = "\u{f686}"
 case procedures = "\u{f487}"
 case productHunt = "\u{f288}"
@@ -1379,6 +1433,7 @@ case retweetAlt = "\u{f361}"
 case rev = "\u{f5b2}"
 case ribbon = "\u{f4d6}"
 case ring = "\u{f70b}"
+case ringsWedding = "\u{f81b}"
 case road = "\u{f018}"
 case robot = "\u{f544}"
 case rocket = "\u{f135}"
@@ -1398,12 +1453,17 @@ case rulerVertical = "\u{f548}"
 case running = "\u{f70c}"
 case rupeeSign = "\u{f156}"
 case rv = "\u{f7be}"
+case sack = "\u{f81c}"
+case sackDollar = "\u{f81d}"
 case sadCry = "\u{f5b3}"
 case sadTear = "\u{f5b4}"
 case safari = "\u{f267}"
+case salad = "\u{f81e}"
+case sandwich = "\u{f81f}"
 case sass = "\u{f41e}"
 case satellite = "\u{f7bf}"
 case satelliteDish = "\u{f7c0}"
+case sausage = "\u{f820}"
 case save = "\u{f0c7}"
 case scalpel = "\u{f61d}"
 case scalpelPath = "\u{f61e}"
@@ -1448,6 +1508,7 @@ case ship = "\u{f21a}"
 case shippingFast = "\u{f48b}"
 case shippingTimed = "\u{f48c}"
 case shirtsinbulk = "\u{f214}"
+case shishKebab = "\u{f821}"
 case shoePrints = "\u{f54b}"
 case shoppingBag = "\u{f290}"
 case shoppingBasket = "\u{f291}"
@@ -1459,6 +1520,7 @@ case shower = "\u{f2cc}"
 case shredder = "\u{f68a}"
 case shuttleVan = "\u{f5b6}"
 case shuttlecock = "\u{f45b}"
+case sickle = "\u{f822}"
 case sigma = "\u{f68b}"
 case sign = "\u{f4d9}"
 case signIn = "\u{f090}"
@@ -1536,6 +1598,7 @@ case sortNumericDown = "\u{f162}"
 case sortNumericUp = "\u{f163}"
 case sortUp = "\u{f0de}"
 case soundcloud = "\u{f1be}"
+case soup = "\u{f823}"
 case sourcetree = "\u{f7d3}"
 case spa = "\u{f5bb}"
 case spaceShuttle = "\u{f197}"
@@ -1569,6 +1632,7 @@ case starOfDavid = "\u{f69a}"
 case starOfLife = "\u{f621}"
 case stars = "\u{f762}"
 case staylinked = "\u{f3f5}"
+case steak = "\u{f824}"
 case steam = "\u{f1b6}"
 case steamSquare = "\u{f1b7}"
 case steamSymbol = "\u{f3f6}"
@@ -1588,6 +1652,7 @@ case storeAlt = "\u{f54f}"
 case strava = "\u{f428}"
 case stream = "\u{f550}"
 case streetView = "\u{f21d}"
+case stretcher = "\u{f825}"
 case strikethrough = "\u{f0cc}"
 case stripe = "\u{f429}"
 case stripeS = "\u{f42a}"
@@ -1639,11 +1704,14 @@ case tachometerFast = "\u{f62a}"
 case tachometerFastest = "\u{f62b}"
 case tachometerSlow = "\u{f62c}"
 case tachometerSlowest = "\u{f62d}"
+case taco = "\u{f826}"
 case tag = "\u{f02b}"
 case tags = "\u{f02c}"
 case tally = "\u{f69c}"
+case tanakh = "\u{f827}"
 case tape = "\u{f4db}"
 case tasks = "\u{f0ae}"
+case tasksAlt = "\u{f828}"
 case taxi = "\u{f1ba}"
 case teamspeak = "\u{f4f9}"
 case teeth = "\u{f62e}"
@@ -1724,12 +1792,15 @@ case transgender = "\u{f224}"
 case transgenderAlt = "\u{f225}"
 case trash = "\u{f1f8}"
 case trashAlt = "\u{f2ed}"
+case trashRestore = "\u{f829}"
+case trashRestoreAlt = "\u{f82a}"
 case treasureChest = "\u{f723}"
 case tree = "\u{f1bb}"
 case treeAlt = "\u{f400}"
 case treeChristmas = "\u{f7db}"
 case treeDecorated = "\u{f7dc}"
 case treeLarge = "\u{f7dd}"
+case treePalm = "\u{f82b}"
 case trees = "\u{f724}"
 case trello = "\u{f181}"
 case triangle = "\u{f2ec}"
@@ -1792,11 +1863,15 @@ case userCrown = "\u{f6a4}"
 case userEdit = "\u{f4ff}"
 case userFriends = "\u{f500}"
 case userGraduate = "\u{f501}"
+case userHardHat = "\u{f82c}"
+case userHeadset = "\u{f82d}"
 case userInjured = "\u{f728}"
 case userLock = "\u{f502}"
 case userMd = "\u{f0f0}"
+case userMdChat = "\u{f82e}"
 case userMinus = "\u{f503}"
 case userNinja = "\u{f504}"
+case userNurse = "\u{f82f}"
 case userPlus = "\u{f234}"
 case userSecret = "\u{f21b}"
 case userShield = "\u{f505}"
@@ -1808,6 +1883,7 @@ case users = "\u{f0c0}"
 case usersClass = "\u{f63d}"
 case usersCog = "\u{f509}"
 case usersCrown = "\u{f6a5}"
+case usersMedical = "\u{f830}"
 case usps = "\u{f7e1}"
 case ussunnah = "\u{f407}"
 case utensilFork = "\u{f2e3}"
@@ -1849,6 +1925,7 @@ case voteNay = "\u{f771}"
 case voteYea = "\u{f772}"
 case vrCardboard = "\u{f729}"
 case vuejs = "\u{f41f}"
+case walker = "\u{f831}"
 case walking = "\u{f554}"
 case wallet = "\u{f555}"
 case wand = "\u{f72a}"
@@ -1860,6 +1937,8 @@ case watchFitness = "\u{f63e}"
 case water = "\u{f773}"
 case waterLower = "\u{f774}"
 case waterRise = "\u{f775}"
+case webcam = "\u{f832}"
+case webcamSlash = "\u{f833}"
 case weebly = "\u{f5cc}"
 case weibo = "\u{f18a}"
 case weight = "\u{f496}"
@@ -2047,6 +2126,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-backpack": "\u{f5d4}",
 "fa-backspace": "\u{f55a}",
 "fa-backward": "\u{f04a}",
+"fa-bacon": "\u{f7e5}",
 "fa-badge": "\u{f335}",
 "fa-badge-check": "\u{f336}",
 "fa-badge-dollar": "\u{f645}",
@@ -2119,11 +2199,14 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-book-alt": "\u{f5d9}",
 "fa-book-dead": "\u{f6b7}",
 "fa-book-heart": "\u{f499}",
+"fa-book-medical": "\u{f7e6}",
 "fa-book-open": "\u{f518}",
 "fa-book-reader": "\u{f5da}",
 "fa-book-spells": "\u{f6b8}",
+"fa-book-user": "\u{f7e7}",
 "fa-bookmark": "\u{f02e}",
 "fa-books": "\u{f5db}",
+"fa-books-medical": "\u{f7e8}",
 "fa-boot": "\u{f782}",
 "fa-booth-curtain": "\u{f734}",
 "fa-bow-arrow": "\u{f6b9}",
@@ -2142,8 +2225,12 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-boxes": "\u{f468}",
 "fa-boxes-alt": "\u{f4a1}",
 "fa-boxing-glove": "\u{f438}",
+"fa-brackets": "\u{f7e9}",
+"fa-brackets-curly": "\u{f7ea}",
 "fa-braille": "\u{f2a1}",
 "fa-brain": "\u{f5dc}",
+"fa-bread-loaf": "\u{f7eb}",
+"fa-bread-slice": "\u{f7ec}",
 "fa-briefcase": "\u{f0b1}",
 "fa-briefcase-medical": "\u{f469}",
 "fa-broadcast-tower": "\u{f519}",
@@ -2159,6 +2246,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-bullseye-pointer": "\u{f649}",
 "fa-burn": "\u{f46a}",
 "fa-buromobelexperte": "\u{f37f}",
+"fa-burrito": "\u{f7ed}",
 "fa-bus": "\u{f207}",
 "fa-bus-alt": "\u{f55e}",
 "fa-bus-school": "\u{f5dd}",
@@ -2242,10 +2330,14 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-chart-network": "\u{f78a}",
 "fa-chart-pie": "\u{f200}",
 "fa-chart-pie-alt": "\u{f64e}",
+"fa-chart-scatter": "\u{f7ee}",
 "fa-check": "\u{f00c}",
 "fa-check-circle": "\u{f058}",
 "fa-check-double": "\u{f560}",
 "fa-check-square": "\u{f14a}",
+"fa-cheese": "\u{f7ef}",
+"fa-cheese-swiss": "\u{f7f0}",
+"fa-cheeseburger": "\u{f7f1}",
 "fa-chess": "\u{f439}",
 "fa-chess-bishop": "\u{f43a}",
 "fa-chess-bishop-alt": "\u{f43b}",
@@ -2286,11 +2378,13 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-circle-notch": "\u{f1ce}",
 "fa-city": "\u{f64f}",
 "fa-claw-marks": "\u{f6c2}",
+"fa-clinic-medical": "\u{f7f2}",
 "fa-clipboard": "\u{f328}",
 "fa-clipboard-check": "\u{f46c}",
 "fa-clipboard-list": "\u{f46d}",
 "fa-clipboard-list-check": "\u{f737}",
 "fa-clipboard-prescription": "\u{f5e8}",
+"fa-clipboard-user": "\u{f7f3}",
 "fa-clock": "\u{f017}",
 "fa-clone": "\u{f24d}",
 "fa-closed-captioning": "\u{f20a}",
@@ -2342,6 +2436,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-comment-alt-edit": "\u{f4a4}",
 "fa-comment-alt-exclamation": "\u{f4a5}",
 "fa-comment-alt-lines": "\u{f4a6}",
+"fa-comment-alt-medical": "\u{f7f4}",
 "fa-comment-alt-minus": "\u{f4a7}",
 "fa-comment-alt-plus": "\u{f4a8}",
 "fa-comment-alt-slash": "\u{f4a9}",
@@ -2353,6 +2448,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-comment-edit": "\u{f4ae}",
 "fa-comment-exclamation": "\u{f4af}",
 "fa-comment-lines": "\u{f4b0}",
+"fa-comment-medical": "\u{f7f5}",
 "fa-comment-minus": "\u{f4b1}",
 "fa-comment-plus": "\u{f4b2}",
 "fa-comment-slash": "\u{f4b3}",
@@ -2403,12 +2499,15 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-credit-card-front": "\u{f38a}",
 "fa-cricket": "\u{f449}",
 "fa-critical-role": "\u{f6c9}",
+"fa-croissant": "\u{f7f6}",
 "fa-crop": "\u{f125}",
 "fa-crop-alt": "\u{f565}",
 "fa-cross": "\u{f654}",
 "fa-crosshairs": "\u{f05b}",
 "fa-crow": "\u{f520}",
 "fa-crown": "\u{f521}",
+"fa-crutch": "\u{f7f7}",
+"fa-crutches": "\u{f7f8}",
 "fa-css3": "\u{f13c}",
 "fa-css3-alt": "\u{f38b}",
 "fa-cube": "\u{f1b2}",
@@ -2422,6 +2521,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-dashcube": "\u{f210}",
 "fa-database": "\u{f1c0}",
 "fa-deaf": "\u{f2a4}",
+"fa-debug": "\u{f7f9}",
 "fa-deer": "\u{f78e}",
 "fa-deer-rudolph": "\u{f78f}",
 "fa-delicious": "\u{f1a5}",
@@ -2458,6 +2558,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-directions": "\u{f5eb}",
 "fa-discord": "\u{f392}",
 "fa-discourse": "\u{f393}",
+"fa-disease": "\u{f7fa}",
 "fa-divide": "\u{f529}",
 "fa-dizzy": "\u{f567}",
 "fa-dna": "\u{f471}",
@@ -2507,6 +2608,8 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-eclipse-alt": "\u{f74a}",
 "fa-edge": "\u{f282}",
 "fa-edit": "\u{f044}",
+"fa-egg": "\u{f7fb}",
+"fa-egg-fried": "\u{f7fc}",
 "fa-eject": "\u{f052}",
 "fa-elementor": "\u{f430}",
 "fa-elephant": "\u{f6da}",
@@ -2602,6 +2705,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-file-user": "\u{f65c}",
 "fa-file-video": "\u{f1c8}",
 "fa-file-word": "\u{f1c2}",
+"fa-files-medical": "\u{f7fd}",
 "fa-fill": "\u{f575}",
 "fa-fill-drip": "\u{f576}",
 "fa-film": "\u{f008}",
@@ -2619,6 +2723,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-first-order-alt": "\u{f50a}",
 "fa-firstdraft": "\u{f3a1}",
 "fa-fish": "\u{f578}",
+"fa-fish-cooked": "\u{f7fe}",
 "fa-fist-raised": "\u{f6de}",
 "fa-flag": "\u{f024}",
 "fa-flag-alt": "\u{f74c}",
@@ -2630,6 +2735,9 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-flask-potion": "\u{f6e1}",
 "fa-flickr": "\u{f16e}",
 "fa-flipboard": "\u{f44d}",
+"fa-flower": "\u{f7ff}",
+"fa-flower-daffodil": "\u{f800}",
+"fa-flower-tulip": "\u{f801}",
 "fa-flushed": "\u{f579}",
 "fa-fly": "\u{f417}",
 "fa-fog": "\u{f74e}",
@@ -2638,6 +2746,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-folder-open": "\u{f07c}",
 "fa-folder-plus": "\u{f65e}",
 "fa-folder-times": "\u{f65f}",
+"fa-folder-tree": "\u{f802}",
 "fa-folders": "\u{f660}",
 "fa-font": "\u{f031}",
 "fa-font-awesome": "\u{f2b4}",
@@ -2657,6 +2766,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-fragile": "\u{f4bb}",
 "fa-free-code-camp": "\u{f2c5}",
 "fa-freebsd": "\u{f3a4}",
+"fa-french-fries": "\u{f803}",
 "fa-frog": "\u{f52e}",
 "fa-frosty-head": "\u{f79b}",
 "fa-frown": "\u{f119}",
@@ -2689,6 +2799,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-gitkraken": "\u{f3a6}",
 "fa-gitlab": "\u{f296}",
 "fa-gitter": "\u{f426}",
+"fa-glass": "\u{f804}",
 "fa-glass-champagne": "\u{f79e}",
 "fa-glass-cheers": "\u{f79f}",
 "fa-glass-martini": "\u{f000}",
@@ -2753,6 +2864,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-hacker-news": "\u{f1d4}",
 "fa-hacker-news-square": "\u{f3af}",
 "fa-hackerrank": "\u{f5f7}",
+"fa-hamburger": "\u{f805}",
 "fa-hammer": "\u{f6e3}",
 "fa-hammer-war": "\u{f6e4}",
 "fa-hamsa": "\u{f665}",
@@ -2765,6 +2877,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-hand-holding-usd": "\u{f4c0}",
 "fa-hand-holding-water": "\u{f4c1}",
 "fa-hand-lizard": "\u{f258}",
+"fa-hand-middle-finger": "\u{f806}",
 "fa-hand-paper": "\u{f256}",
 "fa-hand-peace": "\u{f25b}",
 "fa-hand-point-down": "\u{f0a7}",
@@ -2783,6 +2896,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-handshake": "\u{f2b5}",
 "fa-handshake-alt": "\u{f4c6}",
 "fa-hanukiah": "\u{f6e6}",
+"fa-hard-hat": "\u{f807}",
 "fa-hashtag": "\u{f292}",
 "fa-hat-santa": "\u{f7a7}",
 "fa-hat-winter": "\u{f7a8}",
@@ -2791,6 +2905,8 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-haykal": "\u{f666}",
 "fa-hdd": "\u{f0a0}",
 "fa-head-side": "\u{f6e9}",
+"fa-head-side-brain": "\u{f808}",
+"fa-head-side-medical": "\u{f809}",
 "fa-head-vr": "\u{f6ea}",
 "fa-heading": "\u{f1dc}",
 "fa-headphones": "\u{f025}",
@@ -2816,7 +2932,10 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-hockey-sticks": "\u{f454}",
 "fa-holly-berry": "\u{f7aa}",
 "fa-home": "\u{f015}",
+"fa-home-alt": "\u{f80a}",
 "fa-home-heart": "\u{f4c9}",
+"fa-home-lg": "\u{f80b}",
+"fa-home-lg-alt": "\u{f80c}",
 "fa-hood-cloak": "\u{f6ef}",
 "fa-hooli": "\u{f427}",
 "fa-hornbill": "\u{f592}",
@@ -2825,7 +2944,10 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-hospital": "\u{f0f8}",
 "fa-hospital-alt": "\u{f47d}",
 "fa-hospital-symbol": "\u{f47e}",
+"fa-hospital-user": "\u{f80d}",
+"fa-hospitals": "\u{f80e}",
 "fa-hot-tub": "\u{f593}",
+"fa-hotdog": "\u{f80f}",
 "fa-hotel": "\u{f594}",
 "fa-hotjar": "\u{f3b1}",
 "fa-hourglass": "\u{f254}",
@@ -2841,6 +2963,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-humidity": "\u{f750}",
 "fa-hurricane": "\u{f751}",
 "fa-i-cursor": "\u{f246}",
+"fa-ice-cream": "\u{f810}",
 "fa-ice-skate": "\u{f7ac}",
 "fa-icicles": "\u{f7ad}",
 "fa-id-badge": "\u{f2c1}",
@@ -2869,6 +2992,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-inventory": "\u{f480}",
 "fa-invision": "\u{f7b0}",
 "fa-ioxhost": "\u{f208}",
+"fa-island-tropical": "\u{f811}",
 "fa-italic": "\u{f033}",
 "fa-itunes": "\u{f3b4}",
 "fa-itunes-note": "\u{f3b5}",
@@ -2911,6 +3035,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-language": "\u{f1ab}",
 "fa-laptop": "\u{f109}",
 "fa-laptop-code": "\u{f5fc}",
+"fa-laptop-medical": "\u{f812}",
 "fa-laravel": "\u{f3bd}",
 "fa-lastfm": "\u{f202}",
 "fa-lastfm-square": "\u{f203}",
@@ -2980,6 +3105,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-magic": "\u{f0d0}",
 "fa-magnet": "\u{f076}",
 "fa-mail-bulk": "\u{f674}",
+"fa-mailbox": "\u{f813}",
 "fa-mailchimp": "\u{f59e}",
 "fa-male": "\u{f183}",
 "fa-mandalorian": "\u{f50f}",
@@ -3011,6 +3137,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-mask": "\u{f6fa}",
 "fa-mastodon": "\u{f4f6}",
 "fa-maxcdn": "\u{f136}",
+"fa-meat": "\u{f814}",
 "fa-medal": "\u{f5a2}",
 "fa-medapps": "\u{f3c6}",
 "fa-medium": "\u{f23a}",
@@ -3108,6 +3235,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-outdent": "\u{f03b}",
 "fa-page4": "\u{f3d7}",
 "fa-pagelines": "\u{f18c}",
+"fa-pager": "\u{f815}",
 "fa-paint-brush": "\u{f1fc}",
 "fa-paint-brush-alt": "\u{f5a9}",
 "fa-paint-roller": "\u{f5aa}",
@@ -3147,6 +3275,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-pennant": "\u{f456}",
 "fa-penny-arcade": "\u{f704}",
 "fa-people-carry": "\u{f4ce}",
+"fa-pepper-hot": "\u{f816}",
 "fa-percent": "\u{f295}",
 "fa-percentage": "\u{f541}",
 "fa-periscope": "\u{f3da}",
@@ -3177,6 +3306,8 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-pinterest": "\u{f0d2}",
 "fa-pinterest-p": "\u{f231}",
 "fa-pinterest-square": "\u{f0d3}",
+"fa-pizza": "\u{f817}",
+"fa-pizza-slice": "\u{f818}",
 "fa-place-of-worship": "\u{f67f}",
 "fa-plane": "\u{f072}",
 "fa-plane-alt": "\u{f3de}",
@@ -3200,6 +3331,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-poo": "\u{f2fe}",
 "fa-poo-storm": "\u{f75a}",
 "fa-poop": "\u{f619}",
+"fa-popcorn": "\u{f819}",
 "fa-portrait": "\u{f3e0}",
 "fa-pound-sign": "\u{f154}",
 "fa-power-off": "\u{f011}",
@@ -3210,6 +3342,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-prescription-bottle-alt": "\u{f486}",
 "fa-presentation": "\u{f685}",
 "fa-print": "\u{f02f}",
+"fa-print-search": "\u{f81a}",
 "fa-print-slash": "\u{f686}",
 "fa-procedures": "\u{f487}",
 "fa-product-hunt": "\u{f288}",
@@ -3276,6 +3409,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-rev": "\u{f5b2}",
 "fa-ribbon": "\u{f4d6}",
 "fa-ring": "\u{f70b}",
+"fa-rings-wedding": "\u{f81b}",
 "fa-road": "\u{f018}",
 "fa-robot": "\u{f544}",
 "fa-rocket": "\u{f135}",
@@ -3295,12 +3429,17 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-running": "\u{f70c}",
 "fa-rupee-sign": "\u{f156}",
 "fa-rv": "\u{f7be}",
+"fa-sack": "\u{f81c}",
+"fa-sack-dollar": "\u{f81d}",
 "fa-sad-cry": "\u{f5b3}",
 "fa-sad-tear": "\u{f5b4}",
 "fa-safari": "\u{f267}",
+"fa-salad": "\u{f81e}",
+"fa-sandwich": "\u{f81f}",
 "fa-sass": "\u{f41e}",
 "fa-satellite": "\u{f7bf}",
 "fa-satellite-dish": "\u{f7c0}",
+"fa-sausage": "\u{f820}",
 "fa-save": "\u{f0c7}",
 "fa-scalpel": "\u{f61d}",
 "fa-scalpel-path": "\u{f61e}",
@@ -3345,6 +3484,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-shipping-fast": "\u{f48b}",
 "fa-shipping-timed": "\u{f48c}",
 "fa-shirtsinbulk": "\u{f214}",
+"fa-shish-kebab": "\u{f821}",
 "fa-shoe-prints": "\u{f54b}",
 "fa-shopping-bag": "\u{f290}",
 "fa-shopping-basket": "\u{f291}",
@@ -3356,6 +3496,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-shredder": "\u{f68a}",
 "fa-shuttle-van": "\u{f5b6}",
 "fa-shuttlecock": "\u{f45b}",
+"fa-sickle": "\u{f822}",
 "fa-sigma": "\u{f68b}",
 "fa-sign": "\u{f4d9}",
 "fa-sign-in": "\u{f090}",
@@ -3433,6 +3574,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-sort-numeric-up": "\u{f163}",
 "fa-sort-up": "\u{f0de}",
 "fa-soundcloud": "\u{f1be}",
+"fa-soup": "\u{f823}",
 "fa-sourcetree": "\u{f7d3}",
 "fa-spa": "\u{f5bb}",
 "fa-space-shuttle": "\u{f197}",
@@ -3466,6 +3608,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-star-of-life": "\u{f621}",
 "fa-stars": "\u{f762}",
 "fa-staylinked": "\u{f3f5}",
+"fa-steak": "\u{f824}",
 "fa-steam": "\u{f1b6}",
 "fa-steam-square": "\u{f1b7}",
 "fa-steam-symbol": "\u{f3f6}",
@@ -3485,6 +3628,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-strava": "\u{f428}",
 "fa-stream": "\u{f550}",
 "fa-street-view": "\u{f21d}",
+"fa-stretcher": "\u{f825}",
 "fa-strikethrough": "\u{f0cc}",
 "fa-stripe": "\u{f429}",
 "fa-stripe-s": "\u{f42a}",
@@ -3536,11 +3680,14 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-tachometer-fastest": "\u{f62b}",
 "fa-tachometer-slow": "\u{f62c}",
 "fa-tachometer-slowest": "\u{f62d}",
+"fa-taco": "\u{f826}",
 "fa-tag": "\u{f02b}",
 "fa-tags": "\u{f02c}",
 "fa-tally": "\u{f69c}",
+"fa-tanakh": "\u{f827}",
 "fa-tape": "\u{f4db}",
 "fa-tasks": "\u{f0ae}",
+"fa-tasks-alt": "\u{f828}",
 "fa-taxi": "\u{f1ba}",
 "fa-teamspeak": "\u{f4f9}",
 "fa-teeth": "\u{f62e}",
@@ -3621,12 +3768,15 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-transgender-alt": "\u{f225}",
 "fa-trash": "\u{f1f8}",
 "fa-trash-alt": "\u{f2ed}",
+"fa-trash-restore": "\u{f829}",
+"fa-trash-restore-alt": "\u{f82a}",
 "fa-treasure-chest": "\u{f723}",
 "fa-tree": "\u{f1bb}",
 "fa-tree-alt": "\u{f400}",
 "fa-tree-christmas": "\u{f7db}",
 "fa-tree-decorated": "\u{f7dc}",
 "fa-tree-large": "\u{f7dd}",
+"fa-tree-palm": "\u{f82b}",
 "fa-trees": "\u{f724}",
 "fa-trello": "\u{f181}",
 "fa-triangle": "\u{f2ec}",
@@ -3689,11 +3839,15 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-user-edit": "\u{f4ff}",
 "fa-user-friends": "\u{f500}",
 "fa-user-graduate": "\u{f501}",
+"fa-user-hard-hat": "\u{f82c}",
+"fa-user-headset": "\u{f82d}",
 "fa-user-injured": "\u{f728}",
 "fa-user-lock": "\u{f502}",
 "fa-user-md": "\u{f0f0}",
+"fa-user-md-chat": "\u{f82e}",
 "fa-user-minus": "\u{f503}",
 "fa-user-ninja": "\u{f504}",
+"fa-user-nurse": "\u{f82f}",
 "fa-user-plus": "\u{f234}",
 "fa-user-secret": "\u{f21b}",
 "fa-user-shield": "\u{f505}",
@@ -3705,6 +3859,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-users-class": "\u{f63d}",
 "fa-users-cog": "\u{f509}",
 "fa-users-crown": "\u{f6a5}",
+"fa-users-medical": "\u{f830}",
 "fa-usps": "\u{f7e1}",
 "fa-ussunnah": "\u{f407}",
 "fa-utensil-fork": "\u{f2e3}",
@@ -3746,6 +3901,7 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-vote-yea": "\u{f772}",
 "fa-vr-cardboard": "\u{f729}",
 "fa-vuejs": "\u{f41f}",
+"fa-walker": "\u{f831}",
 "fa-walking": "\u{f554}",
 "fa-wallet": "\u{f555}",
 "fa-wand": "\u{f72a}",
@@ -3757,6 +3913,8 @@ public let FontAwesomeIcons: [String: String] = [
 "fa-water": "\u{f773}",
 "fa-water-lower": "\u{f774}",
 "fa-water-rise": "\u{f775}",
+"fa-webcam": "\u{f832}",
+"fa-webcam-slash": "\u{f833}",
 "fa-weebly": "\u{f5cc}",
 "fa-weibo": "\u{f18a}",
 "fa-weight": "\u{f496}",
@@ -3956,6 +4114,7 @@ public let FontAwesomeBrands: [String: String] = ["fa-500px": "\u{f26e}",
 "fa-font-awesome": "\u{f2b4}",
 "fa-font-awesome-alt": "\u{f35c}",
 "fa-font-awesome-flag": "\u{f425}",
+"fa-font-awesome-logo-full": "\u{f4e6}",
 "fa-fonticons": "\u{f280}",
 "fa-fonticons-fi": "\u{f3a2}",
 "fa-fort-awesome": "\u{f286}",

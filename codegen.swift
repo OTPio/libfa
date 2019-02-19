@@ -40,7 +40,7 @@ extension String {
     }
 }
 
-guard let json = FileManager.default.contents(atPath: "FontAwesomePro/metadata/icons.json") else {
+guard let json = FileManager.default.contents(atPath: "Sources/FontAwesome/metadata/icons.json") else {
     fatalError("Could not find JSON metadata file")
 }
 
@@ -121,16 +121,16 @@ fontAwesomeEnum += """
 public let FontAwesomeBrands: [String: String] = [
 """
 
-sortedKeys.forEach { key in
+let brandKeys = Array(icons.filter { $0.value.styles.contains("brands") }.keys).sorted(by: <)
+
+brandKeys.forEach { key in
     guard let value = icons[key] else { return }
-    if value.styles.count == 1 { // most likely brand-only
-        fontAwesomeEnum += """
-        \"fa-\(key)\": \"\\u{\(value.unicode)}\"
-        """
-        
-        if key != sortedKeys.last {
-            fontAwesomeEnum += ",\n"
-        }
+    fontAwesomeEnum += """
+    \"fa-\(key)\": \"\\u{\(value.unicode)}\"
+    """
+    
+    if key != sortedKeys.last {
+        fontAwesomeEnum += ",\n"
     }
 }
 
