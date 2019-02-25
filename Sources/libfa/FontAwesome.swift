@@ -57,20 +57,20 @@ public enum FontAwesomeStyle: String {
     func fontName() -> String {
         switch self {
         case .solid:
-            return "FontAwesome5ProSolid"
+            return "FontAwesome5Pro-Solid"
         case .regular:
-            return "FontAwesome5ProRegular"
+            return "FontAwesome5Pro-Regular"
         case .brands:
-            return "FontAwesome5BrandsRegular"
+            return "FontAwesome5Brands-Regular"
         case .light:
-            return "FontAwesome5ProLight"
+            return "FontAwesome5Pro-Light"
         }
     }
     
     func fontFilename() -> String {
         switch self {
         case .solid:
-            return "FontAwesome 5 Pro-Solid-900"
+            return "Font Awesome 5 Pro-Solid-900"
         case .regular:
             return "Font Awesome 5 Pro-Regular-400"
         case .brands:
@@ -235,7 +235,7 @@ extension URL {
         }
         
         // If this framework is added using CocoaPods, resources is placed under a subdirectory
-        if let fontURL = bundle.url(forResource: fontName, withExtension: "otf", subdirectory: "FontAwesome.swift.bundle") {
+        if let fontURL = bundle.url(forResource: fontName, withExtension: "otf", subdirectory: "LibFA.bundle") {
             return fontURL
         }
         
